@@ -1,6 +1,7 @@
 def add_numbers(a, b):
     return a + b
-
+def add_number(a,b):
+    return a*b
 
 def main():
     x = 10
